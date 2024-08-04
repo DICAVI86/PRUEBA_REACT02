@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "titulo": "El Quijote",
+        "autor": "Miguel de Cervantes",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTqjHYSzYOtNBuI8mifKqZHEg0PUMEtZLgg&s",
+        "descripcion": "Una novela clásica de la literatura española.",
+        "precio": 10.99
+    },
+    {
+        "id": 2,
+        "titulo": "Cien Años de Soledad",
+        "autor": "Gabriel García Márquez",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTddccIaADdko_XE0-T9H2Wloy5bugv_dQIag&s",
+        "descripcion": "Una obra maestra del realismo mágico.",
+        "precio": 12.99
+    }
+]
